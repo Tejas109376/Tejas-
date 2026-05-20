@@ -1,0 +1,6 @@
+{
+  "name": "Raitavarta",
+  "description": "Raitavarta is a smart agriculture app that helps farmers with crop information, weather updates, market prices, AI-based suggestions, and government scheme details.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
